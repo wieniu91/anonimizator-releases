@@ -1,7 +1,7 @@
 {
-  "wersja": "1.2.1",
+  "wersja": "1.3.0",
   "data": "2026-06-12",
-  "opis": "Fix: wgrywanie docx + podglady pierwszej strony wszystkich dokumentow.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.2.1/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.2.1/Anonimizator-win.zip"
+  "opis": "Przegladarka dokumentow (PDF wielostronicowy, ladny widok Word) + edycja dokumentu w aplikacji z anonimizacja w locie.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.3.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.3.0/Anonimizator-win.zip"
 }
