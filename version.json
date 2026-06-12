@@ -1,0 +1,7 @@
+{
+  "wersja": "1.0.0",
+  "data": "2026-06-12",
+  "opis": "Pierwsze wydanie: anonimizacja docx/pdf/skan, system dokumentow, czat z dokumentem, LLM in-process.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.0.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.0.0/Anonimizator-win.zip"
+}
