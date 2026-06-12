@@ -1,7 +1,7 @@
 {
-  "wersja": "1.8.0",
-  "data": "2026-06-12",
-  "opis": "Redakcja PDF v2: anon.pdf regenerowany z oryginalu po kazdej korekcie zmiennych (takze skany), dokladne prostokaty z etykieta w boxie, weryfikacja pokrycia OCR z auto-poprawka, tryb Edytuj redakcje (dodaj/usun/przesun prostokaty na podgladzie), scroll dokumentu zostaje w miejscu po korektach.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.8.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.8.0/Anonimizator-win.zip"
+  "wersja": "1.9.0",
+  "data": "2026-06-13",
+  "opis": "Panel wlasciwosci zamiast sidebara (status, zakres, liczniki X z Y, Anonimizuj wszystkie / ponownie innym zakresem z pelnym resetem), multi-select w katalogu (Cmd+klik, checkbox, grupowy drag&drop, nowa sprawa z zaznaczonych), czat ze sprawa widoczny w folderze sprawy, fix DnD (kafle szarzaly i byly martwe) i fix stopki czatu przy niskim oknie.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.9.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.9.0/Anonimizator-win.zip"
 }
