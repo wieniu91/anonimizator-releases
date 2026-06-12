@@ -1,7 +1,7 @@
 {
-  "wersja": "1.4.0",
+  "wersja": "1.5.0",
   "data": "2026-06-12",
-  "opis": "Asystent edytuje dokument (propozycje z akceptem jako rewizje Worda), edytowalne znaczniki, przelacznik wersji podgladu + zoom, nowy uklad widoku.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.4.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.4.0/Anonimizator-win.zip"
+  "opis": "Zaznacz i ukryj recznie, przywracanie znacznikow, sprawy ze wspolnymi znacznikami, detekcja imion obcych, fix zoomu.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.5.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.5.0/Anonimizator-win.zip"
 }
