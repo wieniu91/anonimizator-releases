@@ -1,7 +1,7 @@
 {
-  "wersja": "1.2.0",
+  "wersja": "1.2.1",
   "data": "2026-06-12",
-  "opis": "Nowy flow anonimizacji z podgladem i paskiem postepu, ikona AL, markdown w czacie, czyszczenie rozmowy.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.2.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.2.0/Anonimizator-win.zip"
+  "opis": "Fix: wgrywanie docx + podglady pierwszej strony wszystkich dokumentow.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.2.1/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.2.1/Anonimizator-win.zip"
 }
