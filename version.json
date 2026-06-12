@@ -1,7 +1,7 @@
 {
-  "wersja": "1.0.1",
+  "wersja": "1.0.2",
   "data": "2026-06-12",
-  "opis": "Naprawa anonimizacji .docx + logi aplikacji.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.0.1/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.0.1/Anonimizator-win.zip"
+  "opis": "Naprawiony aktualizator (postęp, uprawnienia, restart) + fix docx + logi.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.0.2/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.0.2/Anonimizator-win.zip"
 }
