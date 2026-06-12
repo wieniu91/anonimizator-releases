@@ -1,7 +1,7 @@
 {
-  "wersja": "1.7.0",
+  "wersja": "1.8.0",
   "data": "2026-06-12",
-  "opis": "Katalog miniatur jako ekran startowy z wyszukiwarka, foldery spraw (wspolny zakres, anonimizacja calej sprawy kolejka), czat z cala sprawa, drag&drop dokumentow na sprawy, multi-upload otwiera folder sprawy, fix przepaski czatu i wysrodkowany zoom.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.7.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.7.0/Anonimizator-win.zip"
+  "opis": "Redakcja PDF v2: anon.pdf regenerowany z oryginalu po kazdej korekcie zmiennych (takze skany), dokladne prostokaty z etykieta w boxie, weryfikacja pokrycia OCR z auto-poprawka, tryb Edytuj redakcje (dodaj/usun/przesun prostokaty na podgladzie), scroll dokumentu zostaje w miejscu po korektach.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.8.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.8.0/Anonimizator-win.zip"
 }
