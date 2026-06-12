@@ -1,7 +1,7 @@
 {
-  "wersja": "1.6.0",
+  "wersja": "1.7.0",
   "data": "2026-06-12",
-  "opis": "Zoom calej kartki (takze PDF), zaznacz i ukryj naprawione na desktopie + reczne ukrywanie, widok tekstowy PDF, menu kontekstowe spraw, multi-upload ze wspolna mapa, telemetria opt-in.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.6.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.6.0/Anonimizator-win.zip"
+  "opis": "Katalog miniatur jako ekran startowy z wyszukiwarka, foldery spraw (wspolny zakres, anonimizacja calej sprawy kolejka), czat z cala sprawa, drag&drop dokumentow na sprawy, multi-upload otwiera folder sprawy, fix przepaski czatu i wysrodkowany zoom.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.7.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.7.0/Anonimizator-win.zip"
 }
