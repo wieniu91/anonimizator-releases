@@ -1,7 +1,7 @@
 {
-  "wersja": "1.14.0",
+  "wersja": "1.15.0",
   "data": "2026-06-13",
-  "opis": "Odporne pobieranie modelu AI: wznawianie po zerwaniu, pasek MB/%/ETA, model na stale.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.14.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.14.0/Anonimizator-win.zip"
+  "opis": "Redakcja human-in-the-loop: świeże prostokąty już nie znikają (rysowanie kilku pod rząd) i podgląd odświeża się od razu po zapisie. Daty/kwoty po angielsku (April 2, 2026 / €18.70), 'May' z daty to nie osoba.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.15.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.15.0/Anonimizator-win.zip"
 }
