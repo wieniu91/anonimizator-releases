@@ -1,7 +1,7 @@
 {
-  "wersja": "1.13.0",
+  "wersja": "1.14.0",
   "data": "2026-06-13",
-  "opis": "Fix: klik na prostokaty redakcji PDF trafia idealnie przy kazdym powiekszeniu.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.13.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.13.0/Anonimizator-win.zip"
+  "opis": "Odporne pobieranie modelu AI: wznawianie po zerwaniu, pasek MB/%/ETA, model na stale.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.14.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.14.0/Anonimizator-win.zip"
 }
