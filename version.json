@@ -1,7 +1,7 @@
 {
-  "wersja": "1.10.0",
+  "wersja": "1.11.0",
   "data": "2026-06-13",
-  "opis": "Czat ze sprawą widzi wszystkie zanonimizowane dokumenty (baner 'Asystent widzi X z Y' + przycisk 'Zanonimizuj pozostałe'; niezanonimizowanych nie wysyłamy do chmury). Przy dużej liczbie dokumentów lokalny retriever wybiera fragmenty trafne dla pytania zamiast ślepo przycinać, dokładając nagłówek każdego dokumentu. Przebudowany edytor prostokątów PDF: klik w prostokąt otwiera popover z typem i wartością (wartość trafia do mapy, reverse i czat ją rozpoznają), prostokąty przeżywają regenerację, poprawione przesuwanie i uchwyty. Folder po kliknięciu pokazuje wyraźne zaznaczenie.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.10.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.10.0/Anonimizator-win.zip"
+  "opis": "Podgląd dokumentu rozlewa się na całe okno - zoom 50-400% nie przycina już boków, dokument scrolluje się pod panelami właściwości i czatu. Pinch i przesuwanie dwoma palcami na trackpadzie (gładko, skupione na kursorze); przyciski -/100%/+ zostają jako alternatywa. W trybie 'Edytuj redakcję' widać teraz ORYGINAŁ pod półprzezroczystymi prostokątami - poprawiając anonimizację widzisz prawdziwe nazwiska i etykiety. Klik w prostokąt od razu zasysa typ i wartość oryginalną z mapy (wcześniej wartość bywała pusta), doszedł przycisk Anuluj.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.11.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.11.0/Anonimizator-win.zip"
 }
