@@ -1,7 +1,7 @@
 {
-  "wersja": "1.15.0",
-  "data": "2026-06-13",
-  "opis": "Redakcja human-in-the-loop: świeże prostokąty już nie znikają (rysowanie kilku pod rząd) i podgląd odświeża się od razu po zapisie. Daty/kwoty po angielsku (April 2, 2026 / €18.70), 'May' z daty to nie osoba.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.15.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.15.0/Anonimizator-win.zip"
+  "wersja": "1.15.1",
+  "data": "2026-06-14",
+  "opis": "Kwoty w tabelach/wyciągach: przecinek tysięcy (50,173.20 PLN), koniec sklejania 'PLN 50' z sąsiednich kwot, 'PLN' nie jest firmą. Plus 1.15.0: prostokąty redakcji nie znikają i podgląd odświeża się od razu, daty/kwoty po angielsku.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.15.1/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.15.1/Anonimizator-win.zip"
 }
