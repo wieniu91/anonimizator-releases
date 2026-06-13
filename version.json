@@ -1,7 +1,7 @@
 {
-  "wersja": "1.9.0",
+  "wersja": "1.10.0",
   "data": "2026-06-13",
-  "opis": "Panel wlasciwosci zamiast sidebara (status, zakres, liczniki X z Y, Anonimizuj wszystkie / ponownie innym zakresem z pelnym resetem), multi-select w katalogu (Cmd+klik, checkbox, grupowy drag&drop, nowa sprawa z zaznaczonych), czat ze sprawa widoczny w folderze sprawy, fix DnD (kafle szarzaly i byly martwe) i fix stopki czatu przy niskim oknie.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.9.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.9.0/Anonimizator-win.zip"
+  "opis": "Czat ze sprawą widzi wszystkie zanonimizowane dokumenty (baner 'Asystent widzi X z Y' + przycisk 'Zanonimizuj pozostałe'; niezanonimizowanych nie wysyłamy do chmury). Przy dużej liczbie dokumentów lokalny retriever wybiera fragmenty trafne dla pytania zamiast ślepo przycinać, dokładając nagłówek każdego dokumentu. Przebudowany edytor prostokątów PDF: klik w prostokąt otwiera popover z typem i wartością (wartość trafia do mapy, reverse i czat ją rozpoznają), prostokąty przeżywają regenerację, poprawione przesuwanie i uchwyty. Folder po kliknięciu pokazuje wyraźne zaznaczenie.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.10.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.10.0/Anonimizator-win.zip"
 }
