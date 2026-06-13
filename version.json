@@ -1,7 +1,7 @@
 {
-  "wersja": "1.12.0",
+  "wersja": "1.13.0",
   "data": "2026-06-13",
-  "opis": "Naprawione dwa bugi edytora redakcji PDF. Zaznaczanie i rysowanie prostokątów działa teraz poprawnie przy każdym powiększeniu - wcześniej przy zoomie innym niż 100% boxy rozjeżdżały się względem kursora. Narysowany prostokąt nie znika już po kliknięciu 'Zapisz redakcję'. Nowy typ danych 'Nazwa projektu' (np. nazwa konkursu w cudzysłowie) - w presecie Pełna jest zamazywany, w trybie RODO zostaje (to nie dane osobowe). Zoom ma dynamiczny górny limit, żeby pinch przy dużym powiększeniu się nie sypał. Doszedł przycisk chowania paneli bocznych (dokument na pełną szerokość), a wejście w tryb 'Edytuj redakcję' chowa panele automatycznie.",
-  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.12.0/Anonimizator-mac.zip",
-  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.12.0/Anonimizator-win.zip"
+  "opis": "Fix: klik na prostokaty redakcji PDF trafia idealnie przy kazdym powiekszeniu.",
+  "mac_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.13.0/Anonimizator-mac.zip",
+  "win_url": "https://github.com/wieniu91/anonimizator-releases/releases/download/v1.13.0/Anonimizator-win.zip"
 }
